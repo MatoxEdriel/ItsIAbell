@@ -1,22 +1,31 @@
-from src.app.animation import welcomeGabriel
-from PIL import Image
 import streamlit as st
-import os
+from streamlit_lottie import st_lottie
+import json
 from src.pages import dashboard
 from src.pages import chatboard
+from src.app.animation import welcomeGabriel
 
-logo_path = os.path.join("src", "assets", "spider.jpeg")
-logo = Image.open(logo_path)
-st.sidebar.image(logo, width=120)
+def load_lottiefile(filepath: str):
+    with open(filepath, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-st.sidebar.title("ItsIAbell")
+def main():
 
-page = st.sidebar.radio("Select your Agent", ["Dashboard", "Chatboard"])
+    lottie_logo = load_lottiefile("src/assets/lottie/logo.json")
 
-if page == "Dashboard":
-    dashboard.run()
+   
+    with st.sidebar:
+        st_lottie(lottie_logo, height=120)
+        st.title("LexIA")
+        page = st.radio("Select your Agent", ["Chatboard"])
+    
+   
+    if page == "Chatboard":
+        chatboard.run()
+   
 
-elif page == "Chatboard":
-    chatboard.run()
+  
+    welcomeGabriel()
 
-welcomeGabriel()
+if __name__ == "__main__":
+    main()
