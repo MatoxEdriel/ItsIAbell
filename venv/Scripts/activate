@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Viamatica\Documents\LexIA\venv"
+VIRTUAL_ENV="C:\Users\Gabriel Campoverde\Desktop\NovaCode\ItsIAbell\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

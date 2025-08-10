@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "innate-watch-468517-v9",
+  "private_key_id": "5e19a278f28db2007c5de2b9348447f5f0218840",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzF4fgkLqaG7ju\nmv+Yiug4zwJoHl0HIi3oN1x6n46B1eVNAR8TyL7bD9XEdmoNV0ACxqlF/ignue4z\nIL2sy2MNDNQflDHx0E34hF/53yTSpnFQlIAHQhSGB6tsIXPQu3VlX+Lti2+rfKPY\no9PiGxUOZgJ4XrUzqPyrgHIbdn1PxQ+4Cwj2AaFZiCJr5TqM6bI8AvRoquqgp7BC\ntRMrqma2aLp6eQrYW1iFjQrBB+Q6yD6XSW/u6Z5T3RASjxQz8DSWNJmZUdKmJTFK\niJS+9G2tMvS3D3Byk1y+5odS+5GwGm/lw+3LLB0sdH0QhpyZH7mpX6wonCEP+oX/\n/ndFHgbnAgMBAAECggEACUDZ05e2xIKn2KWSjOpUcFGl1q+xmnjrdU2do3T+CHr+\n7i500XFfBx43gH9RIHUAc4REjRTCNLdDIEonSA0kMNxCU4q1KpYwM9B8eFfNZRhA\nz5XfUutY+HSJ/hFxFKOy6konhU2IjLbpF6bzVNdAYcOR32/z8yzejT/wOrdcZyl5\ntS5G6xq6oNwlLOeqerRH2jqXNxHQpqNavFqE/9bU8o+1heV8BaSHxpd7DOXkNGjF\nW2peRUG7d1LgN/R4sTE03nhY873zy3C3QU5ybg+gClGWnTW+tQMtSlZpl6Mhby66\nsAD8ReHizwJ9ghxU2ioCPSBvqxMVHt42kAd9adr1/QKBgQDouFyY69fb8XZeBNKj\nRDXWmsXZeCrxcIUIahex1iO2vtTsDG++sHp8rLHAmmLzAz0jM+TkO14+ujUGsZ2k\n2ZKeXm5qhQXeSFl5ImJ94wozYNS/A7sKZkZlzAPCoV2y5YGz9QPSNKoEwC/L375x\nfCCnk9YmntecPk5xuDc7u5AL6wKBgQDFAdMY1FlLXbQx3r/g+vOmHZ7THkl8Vdj9\nxueYKyoEC1XbYzZMnMRp2w4LozPY0AvmSgYhW6t5hwHfm+Kud9HyH6QOPHYGLcAG\nLRXeEaaoRyEQzzzESpR8ddZ9BQa8rxcmaGb6RSlMokAkX+6DjhTzu36zbXYHjPzt\nipf163sd9QKBgDxI7evLRHq8XS5Tz4DtvYifRVtlbrJmtH+OhB7UWyIO4zdWrWfX\nbZN4ZP+Avts23pKM8eFRo8NaFzxprG200u9lhPLhDLkdQthHWP5FXzIaBmKJA93Y\nyqm6JMs5Y/1gyK2mbdv5OoXKh1cn2byqLAddG5+bjDz0QvvgfaZimxkLAoGAYOTR\n129xb6DppHGC+/tRZI1C9WD7EZ0DeWWfuHbaVlzg4GM+bJXaAJpNoSmmsWc5wwz7\nUOLORppBMKJx7g9egfBP9vSDs+xCeocoLy2NQ0yglaznnT91InWuhZS4SIrxHuHQ\nbB0h/9/5HirUm32BDpNT8JnQqEwOhiJZNQmZZxUCgYEAyn6N9kI6rNxfJdJygK83\nP6aLGIvidMyz3zsWy0qaPbkh+b7oVs8Pz4P9Uxv/UW3mRE4aS126S/kyxSxIdQxg\np+ixgcxVDHGFrFvW2JHS/G9EDYerwHkQUNPw5NyV4MaJVTMdm8YkqsUgvHlVO5Vg\n+7h/PZuY0j94e8zWUo6HM7U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lexia-983@innate-watch-468517-v9.iam.gserviceaccount.com",
+  "client_id": "107393722181062700433",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lexia-983%40innate-watch-468517-v9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
